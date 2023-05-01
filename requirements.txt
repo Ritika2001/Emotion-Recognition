@@ -1,0 +1,10 @@
+matplotlib==3.6.2
+numpy==1.23.1
+transformers==4.25.1
+matplotlib==3.6.2
+numpy==1.23.1
+pandas==1.5.2
+librosa==0.10.0.post2
+keras==2.12.0
+tensorflow==2.12.0
+scikit-learn==1.2.0
